@@ -8,3 +8,7 @@
 
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-04-logging
 
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-05-web-test
+
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-06-lowercase
+
